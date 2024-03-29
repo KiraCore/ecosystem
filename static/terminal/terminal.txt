@@ -1,0 +1,150 @@
+milady@kek:~$ ls
+Desktop    Documents       Downloads    Music    Pictures    Videos
+Misc       kira_network    pron         dev          
+milady@kek:~$ cd kira_network
+milady@kek:~/kira_network$ ls
+km.so         interx.so     icon.ico       crack     kira.network.client.2024.bonanza.[razor1911].tar.gz
+setup.deb     setup.ini     README.nfo     docs.sh         
+milady@kek:~/kira_network$ cat README.nfo
+
+           ..                                           
+      .. ^&@G!.                                                                 
+   .^Y#G7.  Y#&#Y^.                                                              
+ *G@@@@@@@&:. °B@@@G:    .:        :7?.    .7?:°  .?7  .??????~.       ^77.    
+   °JB@@@@@@@@@@#Y^  .^J#@&        :@@J   ?@@5   ?@@: :BGGGGB@@B.     ~@@@@   
+   .   ^Y#@@&54°  .JB@@@@@&        :@@? :&@#:    ?@@:        :@@7    :@@&@@&   
+   ^5^.   °:°   .@@@@@@@@&J        :@@&G@@?      ?@@: .GPPPPG@@G    .@@& ~@@G  
+   !@@@#J:.     :@@@@&P° ..        ````  ```     ```` ````  ````    ````  5@@7
+   !@#*§@@@B?.  :@@G: .:B@G        :GG^  ~BB!    ^GG. :GG:   5GP   PG5     &@@^
+   7@B  @@@@@Y  :@@#B&&G7.         .##~   G#G.   ~##. :##:   !##  ###      .BB5÷
+   7@B  @@@@@J  :@&G?.°                                                         
+   7B5  @@@@@J  !*°`               < 45 78 70 65 63 74 20 4E 6F 74 68 69 6E 67 >                                             
+    `°  G@@@@J                                                      
+          ^Y&?      
+		+---------------------------------------*---------------------------------------+                                                                     
+		¦                                                                               ¦
+		¦                          KiraCore Proudly Presents:                           ¦
+		¦                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                         ¦
+		¦                                                                               ¦
+		¦   After a long journey, KIRA has transformed from a simple idea into a        ¦
+		¦   comprehensive network. Embracing challenges and learning from the           ¦
+		¦   industry, we've focused on building a network that values diversity and     ¦
+		¦   decentralization. Steering clear of the hype, KIRA is dedicated to          ¦
+		¦   practical, user-centric solutions, aiming to make a meaningful              ¦
+		¦   contribution to the blockchain space.                                       ¦
+		¦                                                                               ¦
+		¦   Mainnet Launch Date: TBD                                                    ¦
+		¦          Key Features: Governance Permissioned Validator Set                  ¦
+		¦                        Language Agnostic L2s w/ Programmable Finality         ¦
+		¦                        Decentralized API w/ Integrity Verification            ¦
+		¦                        Content Availability Layer w/ Replicated Storage       ¦
+		¦                                                                               ¦
+		¦                    DOCS  ¦  BLOG  ¦  TWITTER  ¦  TELEGRAM                     ¦
+		¦                                                                               ¦             
+		¦             PGP: 390D CDCF CE3E 3991 B004 8F3B 2293 FE64 F2D7 1DAB            ¦                                                       
+		+---------------------------------------*---------------------------------------+
+		+---------------------------------------*---------------------------------------+
+		¦                                 Release Note                                  ¦
+		¦                               ~~~~~~~~~~~~~~~~                                ¦
+		¦                                                                               ¦
+		¦   SEKAI 世界 (せかい)                                                           ¦
+		¦   ~~~~~~~~~~~~~~~~~~                                                          ¦
+		¦                                                                               ¦
+		¦   SEKAI is KIRA’s blockchain application responsible for all on-chain logic.  ¦
+		¦   It handles transactions, state transitions, and persists users and          ¦
+		¦   applications account balances. Block propagation and networking are managed ¦
+		¦   by Tendermint and INTERX.                                                              ¦
+		¦                                                                               ¦
+		¦               Blockchain Type: [ ] PoW [ ] PoS [X] MBPoS                      ¦
+		¦                     Consensus: Tendermint                                     ¦
+		¦         Network Participation: Permissionless [ ] Permissioned [ ]            ¦
+		¦                                Governance Permissioned [X]                    ¦
+		¦                           TPS: Does not matter                                ¦
+		¦   Smart Contract Capabilities: Leveraging L2 and Account Abstraction          ¦
+		¦               L2 Capabilities: Yes                                            ¦ 
+		¦                       L2 Type: ZK [X] ORU [X] PRD/CUSTOM [X]                  ¦
+		¦                                                                               ¦
+		¦   KIRA MANAGER (管理人)                                                      ¦
+		¦   ~~~~~~~~~~~~~~~~~~~~~~~                                                     ¦
+		¦                                                                               ¦	
+		¦   With the upcoming 2.0 version, KIRA Manager is a decentralized physical     ¦
+		¦   infrastructure manager that simplifies the operation of KIRA stack          ¦
+		¦   components for validators. It offers functionalities like auto-upgrade,     ¦
+		¦   auto-scale, and auto-deploy using Docker, aiming to streamline the          ¦
+		¦   management process. KIRA Manager abstracts applications into isolated       ¦
+		¦   containers, which allows for the secure operation of new types of           ¦
+		¦   decentralized applications, including AI, streaming, and social media.      ¦
+		¦   This tool provides developers with the choice of necessary resources for    ¦
+		¦   running their applications, while maintaining high standards of             ¦
+		¦   performance and security for validators.                                    ¦
+
+		¦   INTERX (インターエックス)                                                      ¦
+		¦   ~~~~~~~~~~~~~~~~~~~~~~~                                                     ¦
+		¦                                                                               ¦
+		¦   INTERX, a critical middleware in the KIRA network, acts as a unique layer,  ¦
+		¦   different from traditional blockchain models. It functions both as a        ¦
+		¦   Content Availability Layer and a decentralized RPC Provider, streamlining   ¦
+		¦   data management and communication for Container-based applications. This    ¦
+		¦   approach enhances scalability, data sharing, and persistence,               ¦
+		¦   moving beyond individual light clients. By focusing on data integrity,      ¦
+		¦   INTERX significantly upgrades the user experience, ensuring secure and      ¦
+		¦   reliable data transfers for modern decentralized applications.              ¦
+		¦                                                                               ¦
+		¦                API Architecture: Centralized [ ] Decentralized [X]            ¦
+		¦             Application Support: Container-based Apps                         ¦
+		¦     Application Data Management: Yes                                          ¦
+		¦                    File Caching: Yes                                          ¦
+		¦                  Load Balancing: Yes                                          ¦
+		¦             Proxy Functionality: Yes                                          ¦
+		¦   Multi-party Execution Support: Yes                                          ¦
+		¦                                                                               ¦
+		¦   MIRO 看 (見る)                                                               ¦
+		¦   ~~~~~~~~~~~~~                                                               ¦
+		¦                                                                               ¦
+		¦   MIRO is the front-end application and web wallet of KIRA network. It allows ¦
+		¦   users to interact with SEKAI through the decentralized API, INTERX.         ¦
+		¦   It provides a user-friendly interface for managing accounts and             ¦
+		¦   assets. The MIRO web application is static and self-contained, meaning all  ¦
+		¦   actions taken are local to the user's computer once loaded. No hosting      ¦
+		¦   servers or internet access beyond the IP of a local or public INTERX node   ¦
+		¦   are required.                                                               ¦
+		¦                                                                               ¦
+		¦        Operational Model: Self-Contained                                      ¦
+		¦   Internet Dependency: Minimal                                                ¦
+		¦   Hosting Servers: Not Required                                               ¦
+		¦   Data Processing: Local                                                      ¦
+		¦   Blockchain Access: Local/Public INTERX Nodes                                ¦
+		¦                                                                               ¦
+		+---------------------------------------*---------------------------------------+
+		+---------------------------------------*---------------------------------------+
+		¦                                                                               ¦
+		¦                       Explore the Network's Foundations                       ¦
+		¦                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                     ¦
+		¦                                                                               ¦
+		¦   In this era of rapid digital transformation, clarity becomes a beacon.      ¦
+		¦   This is why we invite you to explore our guide, designed to elucidate the   ¦
+		¦   principles that have guided KIRA's approach, offering insights for those    ¦
+		¦   intrigued by the intricacies of blockchain, and informed by our own         ¦
+		¦   journey into this field.                                                    ¦
+		¦                                                                               ¦
+		¦                                 COMING SOON                                   ¦
+		¦                                                                               ¦
+		+---------------------------------------*---------------------------------------+
+		+---------------------------------------*---------------------------------------+
+		¦                                                                               ¦
+		¦                                   Greetings                                   ¦
+		¦                                 ~~~~~~~~~~~~~                                 ¦
+		¦                                                                               ¦
+		¦    Special recognition goes to the following peoples...                       ¦
+		¦                                                                               ¦
+		¦    Jae Kwon, founder of Tendermint, pivotal to our journey here today.        ¦
+		¦    Joseph Poon, creator of the Bitcoin lightning network, the first           ¦
+		¦    iteration of pessimistic roll-downs which sparked the roll-ups movement.   ¦
+		¦    Our community, whose support has been unwavering and invaluable,           ¦
+		¦    And, of course, the KiraCore team for its relentless dedication.           ¦
+		¦                                                                               ¦
+		+---------------------------------------*---------------------------------------+
+		
+milady@kek:~/kira_network$ ./docs.sh_
+
+
